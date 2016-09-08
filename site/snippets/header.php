@@ -15,8 +15,8 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
-  <script src="/projects/placeworkers.com/assets/js/modernizr.custom.js"></script>
-  <script src="/projects/placeworkers.com/assets/js/main.js"></script>
+  <script src="../assets/js/modernizr.custom.js"></script>
+  <script src="../assets/js/main.js"></script>
 
   <?php echo css('/assets/css/main.css') ?>
 
@@ -28,5 +28,5 @@
     <?php snippet('menu') ?>
 </header>
 
-<script src="/projects/placeworkers.com/assets/js/classie.js"></script>
-<script src="/projects/placeworkers.com/assets/js/demo1.js"></script>
+<script src="../assets/js/classie.js"></script>
+<script src="../assets/js/demo1.js"></script>
