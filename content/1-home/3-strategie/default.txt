@@ -1,0 +1,5 @@
+Title: SAP - Mobile Strategie Workshop
+
+----
+
+Text: Wir wissen wie schwer es ist, eine komplexe, mobile Infrastruktur am Laufen zu halten und Fehler korrekt einzugrenzen und zu beheben. Nutzen Sie unsere über die Jahre gewonnene Kenntnis der Systeme und Prozesse.

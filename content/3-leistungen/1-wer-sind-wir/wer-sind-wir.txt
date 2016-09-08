@@ -1,0 +1,25 @@
+Title: Wer sind wir
+
+----
+
+Text: 
+
+##Die PlaceWorkers GmbH
+ 
+Gegründet mit der Vision, mobile Software für Unternehmen zu entwickeln, die den Anwender bei seiner täglichen Arbeit unterstützt, hat sich PlaceWorkers als einer der führenden Anbieter mobiler Softwarelösungen im SAP Umfeld etabliert. Seit 2001 haben wir in zahlreichen Projekten umfangreiche Erfahrungen gesammelt, um SAP mobile Anwendungen bei Kunden erfolgreich einzuführen. Vom ersten Tag an sind wir dabei unserer Mission gefolgt die Mitarbeiter der Kunden zu echten PlaceWorkers zu Machen.
+ 
+**Aber was ist ein PlaceWorker?**
+Ihre Mitarbeiter sitzen nicht am Schreibtisch um Ihre Formulare auszufüllen. Die Maschinen, Anlagen und Zähler sind verteilt und der Mitarbeiter braucht die Informationen an dem Platz, an dem die Maschine steht und wo er arbeiten muss. Er braucht also sehr viele Schreibtische und genau das ermöglichen wir ihm: Arbeiten an dem Platz, an dem er sich gerade befindet. Ein PlaceWorker eben.
+ 
+ ###Der Erfolg unserer Arbeit basiert auf unseren Glaubenssätzen:
+- Wir bieten dem Anwender den größtmöglichen Nutzen, so dass er seine Arbeit optimal erledigen kann
+- Wir liefern Produkte, die unsere Kunden überzeugen
+- Wir suchen nach Lösungen, die auf möglichst allen mobilen Plattformen lauffähig sind
+- Wir sind ein solider und zuverlässiger Partner
+- Wir halten unsere Versprechen
+
+Vor allem der Grundsatz der Ehrlichkeit wird von unseren Partnern sehr geschätzt und hilft uns dabei, unsere Kunden von unseren Lösungen zu überzeugen. Dies führt zu einer dauerhaften und auf Vertrauen basierenden Zusammenarbeit.
+
+----
+
+Images: company.svg,oliver-kaluscha.png
