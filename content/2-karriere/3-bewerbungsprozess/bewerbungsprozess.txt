@@ -1,0 +1,50 @@
+Title: Bewerbungsprozess
+
+----
+
+Text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+
+----
+
+Process1: 
+
+(image: bewerbung.svg height: 100px)
+
+##1. Bewerbung 
+Nach Eingang Deiner Bewerbung, am liebsten per Mail unter (email: bewerbungen@placeworkers.com), prüfen wir Deine Bewerbung und gleichen diese mit unseren Anforderungen auf die ausgeschriebene Stelle ab.
+
+----
+
+Process2: 
+
+(image: telefon.svg height: 100px)
+
+##2. Telefoninterview
+Es folgt ein Telefoninterview mit unserem Geschäftsführer, in dem ein erstes Kennenlernen stattfindet. Üblicherweise geht es hier um die bisherigen Tätigkeiten, Deine Qualifikation, was Du von Deinem neuen Job als Berater bei uns erwartest und was Dich motiviert. Ferner hast Du die Möglichkeit das wir Deine offenen Fragen besprechen.
+
+----
+
+Process3: 
+
+(image: interview.svg height: 100px)
+
+##3. Interview
+Wir treffen uns zu einem ausführlichen Gespräch und lernen uns persönlich kennen. Wir zeigen Dir wer wir sind und wir sprechen über Deine individuellen Ziele. Am Ende des Gespräches hast Du einen Eindruck darüber, was Dich bei einer Arbeit bei uns erwartet und wie wir Dich und Deine Karriere fördern werden.
+
+----
+
+Process4: 
+
+(image: vertrag.svg height: 100px)
+
+##4. Vertragsangebot
+Du erhältst von uns einen Vertrag für eine Festanstellung. Unser Ziel ist es, das von der Bewerbung bis zum Vertrag weniger als 2 Wochen vergehen und wir Dir somit Planungssicherheit geben können.
+
+----
+
+Process5: 
+
+(image: probezeit.svg height: 100px)
+
+##5. Probezeit
+Wir haben einen klar definierten Ausbildungsplan mit Meilensteinen, die Dir helfen zu sehen wo Du stehst und was Du schon kannst. Wir arbeiten zusammen an Deinem Erfolg, denn nur wenn Du gut ausgebildet bist, hast Du Spaß bei der Arbeit und wir können zusammen unsere Ziele erreichen. Am Ende der Probezeit bist Du Zertifizierter SAP Berater und weißt alles, um in den Projekten zu bestehen und professionelle Lösungen zu entwickeln. Idealerweise hast du sogar bereits erste Projekterfahrungen sammeln können.

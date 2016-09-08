@@ -1,0 +1,9 @@
+Title: Error – 404
+
+----
+
+Text: 
+
+Diese Seite konnte leider nicht gefunden werden.
+
+(link: home text: Zur Startseite)

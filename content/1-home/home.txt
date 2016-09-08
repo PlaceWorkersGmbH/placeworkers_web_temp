@@ -1,0 +1,107 @@
+Title: Startseite
+
+----
+
+Text: 
+
+# SAP Mobility ist unsere Leidenschaft.
+
+Skalierbare Anwendungen die reale Geschäftsprobleme lösen. 
+
+Placeworkers, your SAP mobile business experts!
+
+## Lust bei uns Karriere zu machen?
+
+(link: karriere text: Zur Karriereseite class: link)
+
+----
+
+Button: (link: jobs text: karriere bei placeworkers class: btn)
+
+----
+
+Service: Offene Stellen
+
+----
+
+About: Wer wir sind
+
+----
+
+Abouttext: 
+
+PlaceWorkers ist ein junges, dynamisch wachsendes SAP-Beratungshaus mit den Schwerpunkten in Mobilen Prozessen und Cloud Anwendungen. Zu unseren Kunden gehören DAX Unternehmen in Bereich der Energieversorgung und des Transportwesens. IT ist für uns ein Werkzeug, das wir verwenden um die Mitarbeiter unserer Kunden bei der täglichen Arbeit zu entlasten und Ihnen echten nutzen zu bringen! Dort wo andere an ihre Grenzen kommen finden wir Lösungen und führen die Projekte beim Kunden zum Erfolg.
+
+Excellente SAP Beratung ist unser Markenzeichen!
+
+----
+
+Projects: Was wir so machen
+
+----
+
+Images: 
+
+----
+
+Client: Kunden die uns vertrauen
+
+----
+
+Clients: Kunden die uns vertrauen
+
+----
+
+Fact1: 
+
+# 20+
+## Mobileexperten
+Spezialisten für Ihre Herausforderungen
+
+----
+
+Fact2: 
+
+# 15+
+## Jahre Erfahrung
+Unser Know-How für Ihre mobilen Lösungen
+
+----
+
+Fact3: 
+
+# 99+
+## Zufriedene Kunden
+Denen die Partnerschaft mit uns wichtig ist
+
+----
+
+Fact4: 
+
+# ∞
+## Standorte
+An denen wir täglich für Sie arbeiten
+
+----
+
+Facts: 
+
+----
+
+Fact: Fakten über uns
+
+----
+
+Client1: (image: enbw.png)
+
+----
+
+Client2: (image: tk.png)
+
+----
+
+Client3: (image: rwe.png)
+
+----
+
+Client4: (image: db.jpg)

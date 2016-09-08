@@ -1,0 +1,17 @@
+Title: PLACEWORKERS
+
+----
+
+Author: Denis Schikunow
+
+----
+
+Description: Wir bauen Web, Mobile und Desktop-Produkte für Ihr Unternehmen – Skalierbare SAP-Anwendungen die reale Geschäftsprobleme lösen!
+
+----
+
+Keywords: PlaceWorkers, Wetzlar, Karriere, SAP, Sybase, Mobile, Mobility, Smartphone, Tablet, Desktop, Application, SAP UI5, ABAP
+
+----
+
+Copyright: © (date: Year) PlaceWorkers GmbH, Wetzlar
